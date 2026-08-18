@@ -1,3 +1,5 @@
+<!-- 4. Crie um formulário que permita ao usuário inserir três notas. 
+ O script PHP deve calcular a média das notas e exibir o resultado.    -->
 <!DOCTYPE html>
 <html lang="PTBR">
 <head>

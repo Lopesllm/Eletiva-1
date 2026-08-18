@@ -1,3 +1,5 @@
+<!-- 3. Crie um formulário que permita ao usuário inserir dois números. 
+ O script PHP deve multiplicar esses números e exibir o resultado.    -->
 <!DOCTYPE html>
 <html lang="PTBR">
 <head>

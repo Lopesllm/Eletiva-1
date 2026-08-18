@@ -1,3 +1,5 @@
+<!-- 1. Crie um formulário que permita ao usuário inserir dois números. 
+ O script PHP deve somar esses números e exibir o resultado.    -->
 <!DOCTYPE html>
 <html lang="PTBR">
 <head>

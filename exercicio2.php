@@ -1,3 +1,5 @@
+<!-- 2. Crie um formulário que permita ao usuário inserir dois números.
+ O script PHP deve subtrair o segundo número do primeiro e exibir o resultado.    -->
 <!DOCTYPE html>
 <html lang="PTBR">
 <head>
